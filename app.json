@@ -7,12 +7,12 @@
   "env": {    
     "MONGO_URI": {
      "description": "Your Mongo url",
-     "value": "",
+     "value": "mongodb+srv://l0g4n:Asdasd@cluster0.oztgo.mongodb.net/test?retryWrites=true&w=majority",
      "required": true
     },
     "NODE_HOST":{
       "description":"lavalink host",
-      "value": "disbotlistlavalink.ml",
+      "value": "lavalinkonreplit.l0g4n1337.repl.co",
       "required": true
     },
     "NODE_ID":{
@@ -27,7 +27,7 @@
     },
     "NODE_PASSWORD":{
       "description":"lavalink password",
-      "value": "LAVA",
+      "value": "srsly?",
       "required": true
     },
     "NODE_SECURE":{
@@ -47,6 +47,7 @@
      },
     "LOGS":{
       "description": "Channel I'd",
+      "value": "891939401029025804",
       "required": true
      },
     "OWNERID":{
@@ -55,6 +56,7 @@
      },
     "TOKEN": {
       "description": "Your bot's bot token.",
+      "value": "OTM4ODE1OTM4OTUyODIyNzg0.Yfvyeg.7_4wTN6-qBbLdZpgxByh83rGjeM",
       "required": true
     }
   }
